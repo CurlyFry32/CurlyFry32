@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Aidan Luke</h1>
 <h3 align="center">A passionate Information Technology Student At Wintec</h3>
+<h3 align="center">Hoping to get a job in Software Engineering</h3>
 
 - 🔭 I’m currently working on **Numerous Course Projects**
 
 - 🌱 I’m currently learning **C# and Diversifying Coding Languages**
 
-- 💬 Ask me about **Projects on 3D printing**
+- 💬 Ask me about **Projects on 3D printing and What I am doing in Course**
 
 - 📫 How to reach me **aidanluk@gmail.com**
 
-- ⚡ Fun fact **I Think I am Funny, In the form of Puns**
+- ⚡ Fun fact **I Think I am Funny. *In the form of Puns***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
